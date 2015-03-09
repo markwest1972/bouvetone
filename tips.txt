@@ -1,0 +1,5 @@
+Starting Location : /usr/local/google_appengine
+
+Download : appcfg.py download_app -A bouvetone "/Users/mark.west/Documents/Bouvet/Fag/Bouvet Big One/bouvetone”
+
+Upload : appcfg.py update  "/Users/mark.west/Documents/Bouvet/Fag/Bouvet Big One/bouvetone”
